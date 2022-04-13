@@ -1,2 +1,1 @@
-# project
-Application project
+This is a project description file
